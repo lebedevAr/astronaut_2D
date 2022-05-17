@@ -1,0 +1,11 @@
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\bin\Debug\astronaut_2D.exe.config
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\bin\Debug\astronaut_2D.exe
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\bin\Debug\astronaut_2D.pdb
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.csproj.AssemblyReference.cache
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.Form1.resources
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.Properties.Resources.resources
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.csproj.GenerateResource.cache
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.exe
+C:\Users\artyo\source\repos\astronaut_2D\astronaut_2D\obj\Debug\astronaut_2D.pdb
